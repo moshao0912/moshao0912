@@ -20,16 +20,16 @@ study information:
 - the language i am good at using are java ,c/c++,php
 - thins i hava been studying lately is data structures
 - interest in software testing
-
+-
 social activity:
-
+-
 perfessional practice:
-
-
+-
+-
 prefessional skills display:
-
+-
 professional blogs:
-
+-
 
 others:
 - 
