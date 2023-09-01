@@ -10,13 +10,26 @@ th visitors.
 
 abouut me:
 -
-- 🔭 I’m currently studying on ShijaizhuangTiedao University
-- 🌱 I’m currently learning softwore engineering
-- 🤔 I’m looking for help with how i can get a diploma
+- I’m currently studying on ShijaizhuangTiedao University
+- I am  a undergraduate study students
+- 
+study information:
+- 
+- I’m currently learning softwore engineering
+- I’m looking for help with how i can get a diploma
 - the language i am good at using are java ,c/c++,php
 - thins i hava been studying lately is data structures
 - interest in software testing
-- an so on...
+
+social activity:
+
+perfessional practice:
+
+
+prefessional skills display:
+
+professional blogs:
+
 
 others:
 - 
