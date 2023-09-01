@@ -1,19 +1,31 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently studying on ShijaizhuangTiedao University
-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshao0912)
+welcome my self introduction
 
-<!--
-**moshao0912/moshao0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-you are 
+- ![Visitor Count](https://profile-counter.glitch.me/moshao0912/count.svg)
+th visitors.
 
-Here are some ideas to get you started:
 
+
+abouut me:
+-
 - 🔭 I’m currently studying on ShijaizhuangTiedao University
 - 🌱 I’m currently learning softwore engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with how i can get  a diploma
-- 💬 Ask me about nothing
-- 📫 How to reach me: ...
-- 😄 Pronouns: zhangkexin
-- ⚡ Fun fact: nothing
--->
+- 🤔 I’m looking for help with how i can get a diploma
+- the language i am good at using are java ,c/c++,php
+- thins i hava been studying lately is data structures
+- interest in software testing
+- an so on...
+
+others:
+- 
+- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshao0912)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshao0912)](https://github.com/Christmas/github-readme-stats) 
+
+
+How to reach me:
+
+
+Fun fact:
+
