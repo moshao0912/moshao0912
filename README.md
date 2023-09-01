@@ -2,7 +2,7 @@
 
 welcome my self introduction
 
--you are - ![Visitor Count](https://profile-counter.glitch.me/moshao0912/count.svg)
+-you are  ![Visitor Count](https://profile-counter.glitch.me/moshao0912/count.svg)
 th visitors.
 
 
