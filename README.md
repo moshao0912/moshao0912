@@ -24,19 +24,15 @@ social activity:
 -
 perfessional practice:
 -
-
 prefessional skills display:
 -
 professional blogs:
 -
-
 others:
 - 
 - ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshao0912)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshao0912)](https://github.com/Christmas/github-readme-stats) 
-
-
-
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshao0912)](https://github.com/Christmas/github-readme-stats)
+  
 How to reach me:
 -
 
