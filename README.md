@@ -1,3 +1,4 @@
+<div align="center">
 ## Hi there 👋
 
 welcome my self introduction
@@ -5,7 +6,7 @@ welcome my self introduction
 -you are  ![Visitor Count](https://profile-counter.glitch.me/moshao0912/count.svg)
 th visitors.
 
-<div align="center">
+
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
