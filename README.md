@@ -49,7 +49,6 @@ prefessional skills display:专业技能展示
 ![image](https://github.com/moshao0912/moshao0912/assets/143790324/c04c73c6-1bf3-4ef7-af48-ac7a1c4e328e)
 php实现的电子商城项目：
 ![image](https://github.com/moshao0912/moshao0912/assets/143790324/8c52276e-f0ef-4c05-b95f-fca9781b9868)
-java实现的增删改查等项目：
 
 数据的获取检索，大数据处理的基本流程等项目：
 ![image](https://github.com/moshao0912/moshao0912/assets/143790324/4203610e-9d6b-4cd6-9eb8-c3a6d9511ba1)
